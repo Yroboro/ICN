@@ -1,2 +1,0 @@
-# ICN
-ICN noda
