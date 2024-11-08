@@ -16,7 +16,7 @@ curl -o- https://console.icn.global/downloads/install/start.sh | bash -s -- -p �
 ```
 ## 4: Окно screen закрывается кнопками CTRL+A+D
 ```
-## 5: Врзварт в screen
+## 5: Возврат в screen
 ```
 screen -r ICN
 ```
